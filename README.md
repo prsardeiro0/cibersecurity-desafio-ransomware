@@ -1,6 +1,5 @@
 # cibersecurity-desafio-ransomware
 Neste Repositorio estou criando um codigo em Pyton para o desafio de codigo do curso de cyber segurança
-# Ransomware Simulation and Defense
 
 Este projeto foi desenvolvido como parte do curso de Cibersegurança para demonstrar como funcionam ataques de ransomware em um ambiente controlado e seguro. **O objetivo é educar sobre as técnicas de mitigação e resposta a incidentes e NÃO criar ferramentas maliciosas.**
 
